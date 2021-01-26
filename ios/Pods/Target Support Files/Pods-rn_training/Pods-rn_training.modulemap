@@ -1,0 +1,6 @@
+module Pods_rn_training {
+  umbrella header "Pods-rn_training-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rn_training.iml" filepath="$PROJECT_DIR$/.idea/modules/rn_training.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/rn_training.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/rn_training.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1049836491/rn_training.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-1049836491/rn_training.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1530923787/rn_training.react-native-cardview.iml" filepath="$PROJECT_DIR$/.idea/modules/-1530923787/rn_training.react-native-cardview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/729711281/rn_training.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/729711281/rn_training.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1953007802/rn_training.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-1953007802/rn_training.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/902116118/rn_training.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/902116118/rn_training.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/711579183/rn_training.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/711579183/rn_training.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1199352569/rn_training.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-1199352569/rn_training.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2042451536/rn_training.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/2042451536/rn_training.react-native-vector-icons.iml" />
+    </modules>
+  </component>
+</project>

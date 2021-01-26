@@ -1,0 +1,4 @@
+#Mon Jan 25 17:03:50 WIB 2021
+base.0=/Users/octavian/Training/android/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
